@@ -1,0 +1,41 @@
+.topheader{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+div.newheader{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+div.newheader2{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+div{
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+.L{
+    color: red;
+}
+.G{ 
+    color: orange;
+}
+.B{
+    color:yellow;
+}
+.T{
+    color: green;
+}
+.Q{
+    color: #004CFF;
+}
+.A{
+    color: #732982;
+}
+div.left{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
