@@ -3,19 +3,19 @@ body{
 }
 .top_tiles{
     height: 100px;
-    width: 200px;
+    width: 240px;
     text-align: center;
     align-content: center;
-    border: 150px green;
     background-color: blueviolet;
 }
 .twohundred{
     display: flex;
     flex-direction: row;
     flex-flow: nowrap;
-    justify-content: space-between;
-    padding: 10px;
+    justify-content: space-evenly;
     height: 100px;
+    width: 240px;
+   
 }
 .fourhundred{
     display: flex;
